@@ -1,0 +1,6 @@
+{
+  "name": "VitalSync",
+  "description": "Ultra-clean daily hydration, core wellness & anti-bloat nutrition tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
